@@ -13,3 +13,7 @@ SHARPE: REPLENISH ME
 
 In case, you face any issues with committing the code. You should probably authenticate the PC you are working from by adding your SSH key to your bitbucket account.
 
+2. Commit changes:
+     
+      1. git commit <file-path> -m <commit-message>
+      2. git push -u origin master
