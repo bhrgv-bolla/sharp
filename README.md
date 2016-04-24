@@ -17,3 +17,9 @@ In case, you face any issues with committing the code. You should probably authe
      
       1. git commit <file-path> -m <commit-message>
       2. git push -u origin master
+
+
+SOME_HELP
+-------------------------
+http://stackoverflow.com/questions/1783405/checkout-remote-git-branch
+http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master
